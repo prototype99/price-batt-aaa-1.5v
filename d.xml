@@ -25,7 +25,7 @@
   </gnm:Attributes>
   <office:document-meta xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:ooo="http://openoffice.org/2004/office" office:version="1.2">
     <office:meta>
-      <dc:date>2023-07-10T23:34:22Z</dc:date>
+      <dc:date>2023-07-20T22:51:14Z</dc:date>
       <meta:creation-date>2023-07-08T17:18:28Z</meta:creation-date>
     </office:meta>
   </office:document-meta>
@@ -38,7 +38,7 @@
     <gnm:Sheet DisplayFormulas="0" HideZero="0" HideGrid="0" HideColHeader="0" HideRowHeader="0" DisplayOutlines="1" OutlineSymbolsBelow="1" OutlineSymbolsRight="1" Visibility="GNM_SHEET_VISIBILITY_VISIBLE" GridColor="0:0:0">
       <gnm:Name>Sheet1</gnm:Name>
       <gnm:MaxCol>10</gnm:MaxCol>
-      <gnm:MaxRow>43</gnm:MaxRow>
+      <gnm:MaxRow>51</gnm:MaxRow>
       <gnm:Zoom>1</gnm:Zoom>
       <gnm:Names>
         <gnm:Name>
@@ -80,7 +80,7 @@
         <gnm:errors PrintErrorsAs="GNM_PRINT_ERRORS_AS_DISPLAYED"/>
       </gnm:PrintInformation>
       <gnm:Styles>
-        <gnm:StyleRegion startCol="0" startRow="0" endCol="4" endRow="0">
+        <gnm:StyleRegion startCol="0" startRow="0" endCol="255" endRow="0">
           <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
             <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
           </gnm:Style>
@@ -90,17 +90,17 @@
             <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
           </gnm:Style>
         </gnm:StyleRegion>
-        <gnm:StyleRegion startCol="0" startRow="34" endCol="255" endRow="65535">
+        <gnm:StyleRegion startCol="0" startRow="34" endCol="7" endRow="36">
           <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
             <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
           </gnm:Style>
         </gnm:StyleRegion>
-        <gnm:StyleRegion startCol="5" startRow="0" endCol="5" endRow="0">
+        <gnm:StyleRegion startCol="0" startRow="37" endCol="6" endRow="51">
           <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
             <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
           </gnm:Style>
         </gnm:StyleRegion>
-        <gnm:StyleRegion startCol="6" startRow="0" endCol="10" endRow="0">
+        <gnm:StyleRegion startCol="0" startRow="52" endCol="255" endRow="65535">
           <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
             <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
           </gnm:Style>
@@ -110,22 +110,22 @@
             <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
           </gnm:Style>
         </gnm:StyleRegion>
-        <gnm:StyleRegion startCol="8" startRow="1" endCol="8" endRow="33">
+        <gnm:StyleRegion startCol="7" startRow="37" endCol="7" endRow="51">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="0.00">
+            <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="8" startRow="1" endCol="8" endRow="51">
           <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
             <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
           </gnm:Style>
         </gnm:StyleRegion>
-        <gnm:StyleRegion startCol="9" startRow="1" endCol="9" endRow="33">
+        <gnm:StyleRegion startCol="9" startRow="1" endCol="9" endRow="51">
           <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="0.000000000">
             <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
           </gnm:Style>
         </gnm:StyleRegion>
-        <gnm:StyleRegion startCol="10" startRow="1" endCol="255" endRow="33">
-          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
-            <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
-          </gnm:Style>
-        </gnm:StyleRegion>
-        <gnm:StyleRegion startCol="11" startRow="0" endCol="255" endRow="0">
+        <gnm:StyleRegion startCol="10" startRow="1" endCol="255" endRow="51">
           <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
             <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
           </gnm:Style>
@@ -133,7 +133,7 @@
       </gnm:Styles>
       <gnm:Cols DefaultSizePts="67.5">
         <gnm:ColInfo No="0" Unit="198"/>
-        <gnm:ColInfo No="1" Unit="49.5"/>
+        <gnm:ColInfo No="1" Unit="56.25"/>
         <gnm:ColInfo No="2" Unit="61.5"/>
         <gnm:ColInfo No="3" Unit="45.75"/>
         <gnm:ColInfo No="4" Unit="64.5"/>
@@ -144,8 +144,8 @@
         <gnm:ColInfo No="10" Unit="216"/>
       </gnm:Cols>
       <gnm:Rows DefaultSizePts="15"/>
-      <gnm:Selections CursorCol="9" CursorRow="19">
-        <gnm:Selection startCol="9" startRow="19" endCol="9" endRow="19"/>
+      <gnm:Selections CursorCol="11" CursorRow="15">
+        <gnm:Selection startCol="11" startRow="15" endCol="11" endRow="15"/>
       </gnm:Selections>
       <gnm:Cells>
         <gnm:Cell Row="0" Col="0" ValueType="60">name</gnm:Cell>
@@ -243,7 +243,7 @@
         <gnm:Cell Row="8" Col="4" ValueType="40">1200</gnm:Cell>
         <gnm:Cell Row="8" Col="5" ValueType="40">12</gnm:Cell>
         <gnm:Cell Row="8" Col="6" ValueType="40">4</gnm:Cell>
-        <gnm:Cell Row="8" Col="7">=9.9900000000000002*4*0.94999999999999996</gnm:Cell>
+        <gnm:Cell Row="8" Col="7" ExprID="2">=9.9900000000000002*4*0.94999999999999996</gnm:Cell>
         <gnm:Cell Row="8" Col="8" ValueType="40">0</gnm:Cell>
         <gnm:Cell Row="8" Col="9" ExprID="1"/>
         <gnm:Cell Row="8" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B0BWFFMCD5</gnm:Cell>
@@ -258,272 +258,472 @@
         <gnm:Cell Row="9" Col="8" ValueType="40">0</gnm:Cell>
         <gnm:Cell Row="9" Col="9" ExprID="1"/>
         <gnm:Cell Row="9" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B071W2W3HF</gnm:Cell>
-        <gnm:Cell Row="10" Col="0" ValueType="60">dunamis recharge-ultra</gnm:Cell>
-        <gnm:Cell Row="10" Col="1" ValueType="60">ni-mh</gnm:Cell>
+        <gnm:Cell Row="10" Col="0" ValueType="60">cityork</gnm:Cell>
+        <gnm:Cell Row="10" Col="1" ValueType="60">lithium</gnm:Cell>
         <gnm:Cell Row="10" Col="2" ValueType="60">n</gnm:Cell>
-        <gnm:Cell Row="10" Col="3" ValueType="40">900</gnm:Cell>
-        <gnm:Cell Row="10" Col="4" ValueType="40">1000</gnm:Cell>
-        <gnm:Cell Row="10" Col="5" ValueType="40">8</gnm:Cell>
+        <gnm:Cell Row="10" Col="3" ValueType="40">800</gnm:Cell>
+        <gnm:Cell Row="10" Col="4" ValueType="40">1200</gnm:Cell>
+        <gnm:Cell Row="10" Col="5" ValueType="40">4</gnm:Cell>
         <gnm:Cell Row="10" Col="6" ValueType="40">1</gnm:Cell>
-        <gnm:Cell Row="10" Col="7" ValueType="40">6.9900000000000002</gnm:Cell>
+        <gnm:Cell Row="10" Col="7" ValueType="40">20.989999999999998</gnm:Cell>
         <gnm:Cell Row="10" Col="8" ValueType="40">0</gnm:Cell>
         <gnm:Cell Row="10" Col="9" ExprID="1"/>
-        <gnm:Cell Row="10" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B098S5S14L</gnm:Cell>
-        <gnm:Cell Row="11" Col="0" ValueType="60">duracell plus</gnm:Cell>
-        <gnm:Cell Row="11" Col="1" ValueType="60">alkaline</gnm:Cell>
+        <gnm:Cell Row="10" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B0C1V3J5QN</gnm:Cell>
+        <gnm:Cell Row="11" Col="0" ValueType="60">cityork</gnm:Cell>
+        <gnm:Cell Row="11" Col="1" ValueType="60">ni-mh</gnm:Cell>
         <gnm:Cell Row="11" Col="2" ValueType="60">n</gnm:Cell>
-        <gnm:Cell Row="11" Col="3" ValueType="40">560</gnm:Cell>
-        <gnm:Cell Row="11" Col="4" ValueType="40">1</gnm:Cell>
-        <gnm:Cell Row="11" Col="5" ValueType="40">24</gnm:Cell>
-        <gnm:Cell Row="11" Col="6" ValueType="40">4</gnm:Cell>
-        <gnm:Cell Row="11" Col="7">=19*4*0.94999999999999996</gnm:Cell>
+        <gnm:Cell Row="11" Col="3" ValueType="40">300</gnm:Cell>
+        <gnm:Cell Row="11" Col="4" ValueType="40">1200</gnm:Cell>
+        <gnm:Cell Row="11" Col="5" ValueType="40">16</gnm:Cell>
+        <gnm:Cell Row="11" Col="6" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="11" Col="7" ValueType="40">15.98</gnm:Cell>
         <gnm:Cell Row="11" Col="8" ValueType="40">0</gnm:Cell>
         <gnm:Cell Row="11" Col="9" ExprID="1"/>
-        <gnm:Cell Row="11" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B094R47H8Q</gnm:Cell>
-        <gnm:Cell Row="12" Col="0" ValueType="60">duracell plus</gnm:Cell>
-        <gnm:Cell Row="12" Col="1" ValueType="60">alkaline</gnm:Cell>
+        <gnm:Cell Row="11" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B08CBY61JG</gnm:Cell>
+        <gnm:Cell Row="12" Col="0" ValueType="60">cityork</gnm:Cell>
+        <gnm:Cell Row="12" Col="1" ValueType="60">ni-mh</gnm:Cell>
         <gnm:Cell Row="12" Col="2" ValueType="60">n</gnm:Cell>
-        <gnm:Cell Row="12" Col="3" ValueType="40">560</gnm:Cell>
-        <gnm:Cell Row="12" Col="4" ValueType="40">1</gnm:Cell>
-        <gnm:Cell Row="12" Col="5" ValueType="40">36</gnm:Cell>
+        <gnm:Cell Row="12" Col="3" ValueType="40">1100</gnm:Cell>
+        <gnm:Cell Row="12" Col="4" ValueType="40">1200</gnm:Cell>
+        <gnm:Cell Row="12" Col="5" ValueType="40">16</gnm:Cell>
         <gnm:Cell Row="12" Col="6" ValueType="40">1</gnm:Cell>
-        <gnm:Cell Row="12" Col="7" ValueType="40">26.120000000000001</gnm:Cell>
+        <gnm:Cell Row="12" Col="7" ValueType="40">14.99</gnm:Cell>
         <gnm:Cell Row="12" Col="8" ValueType="40">0</gnm:Cell>
         <gnm:Cell Row="12" Col="9" ExprID="1"/>
-        <gnm:Cell Row="12" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B07MLDJF3B</gnm:Cell>
-        <gnm:Cell Row="13" Col="0" ValueType="60">ebl</gnm:Cell>
+        <gnm:Cell Row="12" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B09LQL4SJZ</gnm:Cell>
+        <gnm:Cell Row="13" Col="0" ValueType="60">cityork palo</gnm:Cell>
         <gnm:Cell Row="13" Col="1" ValueType="60">ni-mh</gnm:Cell>
         <gnm:Cell Row="13" Col="2" ValueType="60">n</gnm:Cell>
-        <gnm:Cell Row="13" Col="3" ValueType="40">1100</gnm:Cell>
+        <gnm:Cell Row="13" Col="3" ValueType="40">300</gnm:Cell>
         <gnm:Cell Row="13" Col="4" ValueType="40">1200</gnm:Cell>
         <gnm:Cell Row="13" Col="5" ValueType="40">16</gnm:Cell>
         <gnm:Cell Row="13" Col="6" ValueType="40">1</gnm:Cell>
-        <gnm:Cell Row="13" Col="7" ValueType="40">12.15</gnm:Cell>
+        <gnm:Cell Row="13" Col="7" ValueType="40">14.99</gnm:Cell>
         <gnm:Cell Row="13" Col="8" ValueType="40">0</gnm:Cell>
         <gnm:Cell Row="13" Col="9" ExprID="1"/>
-        <gnm:Cell Row="13" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B011RPC6JO</gnm:Cell>
-        <gnm:Cell Row="14" Col="0" ValueType="60">ebl rainbow</gnm:Cell>
-        <gnm:Cell Row="14" Col="1" ValueType="60">ni-mh</gnm:Cell>
+        <gnm:Cell Row="13" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B07FM4JNC6</gnm:Cell>
+        <gnm:Cell Row="14" Col="0" ValueType="60">delyeepow</gnm:Cell>
+        <gnm:Cell Row="14" Col="1" ValueType="60">li-po</gnm:Cell>
         <gnm:Cell Row="14" Col="2" ValueType="60">n</gnm:Cell>
-        <gnm:Cell Row="14" Col="3" ValueType="40">1100</gnm:Cell>
-        <gnm:Cell Row="14" Col="4" ValueType="40">1200</gnm:Cell>
-        <gnm:Cell Row="14" Col="5" ValueType="40">10</gnm:Cell>
+        <gnm:Cell Row="14" Col="3" ExprID="3">=1200/1.5</gnm:Cell>
+        <gnm:Cell Row="14" Col="4" ValueType="40">1500</gnm:Cell>
+        <gnm:Cell Row="14" Col="5" ValueType="40">4</gnm:Cell>
         <gnm:Cell Row="14" Col="6" ValueType="40">1</gnm:Cell>
-        <gnm:Cell Row="14" Col="7" ValueType="40">7.1900000000000004</gnm:Cell>
+        <gnm:Cell Row="14" Col="7" ValueType="40">18.989999999999998</gnm:Cell>
         <gnm:Cell Row="14" Col="8" ValueType="40">0</gnm:Cell>
         <gnm:Cell Row="14" Col="9" ExprID="1"/>
-        <gnm:Cell Row="14" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B011RPC6JO</gnm:Cell>
-        <gnm:Cell Row="15" Col="0" ValueType="60">ebl solar light</gnm:Cell>
+        <gnm:Cell Row="14" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B0BXPHR8LB</gnm:Cell>
+        <gnm:Cell Row="15" Col="0" ValueType="60">dunamis recharge-ultra</gnm:Cell>
         <gnm:Cell Row="15" Col="1" ValueType="60">ni-mh</gnm:Cell>
         <gnm:Cell Row="15" Col="2" ValueType="60">n</gnm:Cell>
-        <gnm:Cell Row="15" Col="3" ValueType="40">500</gnm:Cell>
-        <gnm:Cell Row="15" Col="4" ValueType="40">1</gnm:Cell>
-        <gnm:Cell Row="15" Col="5" ValueType="40">20</gnm:Cell>
+        <gnm:Cell Row="15" Col="3" ValueType="40">900</gnm:Cell>
+        <gnm:Cell Row="15" Col="4" ValueType="40">1000</gnm:Cell>
+        <gnm:Cell Row="15" Col="5" ValueType="40">8</gnm:Cell>
         <gnm:Cell Row="15" Col="6" ValueType="40">1</gnm:Cell>
-        <gnm:Cell Row="15" Col="7" ValueType="40">10.19</gnm:Cell>
+        <gnm:Cell Row="15" Col="7" ValueType="40">6.9900000000000002</gnm:Cell>
         <gnm:Cell Row="15" Col="8" ValueType="40">0</gnm:Cell>
         <gnm:Cell Row="15" Col="9" ExprID="1"/>
-        <gnm:Cell Row="15" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B08JB5D51V</gnm:Cell>
-        <gnm:Cell Row="16" Col="0" ValueType="60">energizer max(formerly energizer ultra+)</gnm:Cell>
+        <gnm:Cell Row="15" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B098S5S14L</gnm:Cell>
+        <gnm:Cell Row="16" Col="0" ValueType="60">duracell plus</gnm:Cell>
         <gnm:Cell Row="16" Col="1" ValueType="60">alkaline</gnm:Cell>
         <gnm:Cell Row="16" Col="2" ValueType="60">n</gnm:Cell>
-        <gnm:Cell Row="16" Col="3" ValueType="40">405</gnm:Cell>
+        <gnm:Cell Row="16" Col="3" ValueType="40">560</gnm:Cell>
         <gnm:Cell Row="16" Col="4" ValueType="40">1</gnm:Cell>
-        <gnm:Cell Row="16" Col="5" ValueType="40">14</gnm:Cell>
-        <gnm:Cell Row="16" Col="6" ValueType="40">1</gnm:Cell>
-        <gnm:Cell Row="16" Col="7" ValueType="40">16.140000000000001</gnm:Cell>
+        <gnm:Cell Row="16" Col="5" ValueType="40">24</gnm:Cell>
+        <gnm:Cell Row="16" Col="6" ValueType="40">4</gnm:Cell>
+        <gnm:Cell Row="16" Col="7" ExprID="4">=19*4*0.94999999999999996</gnm:Cell>
         <gnm:Cell Row="16" Col="8" ValueType="40">0</gnm:Cell>
         <gnm:Cell Row="16" Col="9" ExprID="1"/>
-        <gnm:Cell Row="16" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B0C348QX5N</gnm:Cell>
-        <gnm:Cell Row="17" Col="0" ValueType="60">energizer recharge</gnm:Cell>
-        <gnm:Cell Row="17" Col="1" ValueType="60">ni-mh</gnm:Cell>
+        <gnm:Cell Row="16" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B094R47H8Q</gnm:Cell>
+        <gnm:Cell Row="17" Col="0" ValueType="60">duracell plus</gnm:Cell>
+        <gnm:Cell Row="17" Col="1" ValueType="60">alkaline</gnm:Cell>
         <gnm:Cell Row="17" Col="2" ValueType="60">n</gnm:Cell>
-        <gnm:Cell Row="17" Col="3" ValueType="40">750</gnm:Cell>
-        <gnm:Cell Row="17" Col="4" ValueType="40">500</gnm:Cell>
-        <gnm:Cell Row="17" Col="5" ValueType="40">12</gnm:Cell>
+        <gnm:Cell Row="17" Col="3" ValueType="40">560</gnm:Cell>
+        <gnm:Cell Row="17" Col="4" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="17" Col="5" ValueType="40">36</gnm:Cell>
         <gnm:Cell Row="17" Col="6" ValueType="40">1</gnm:Cell>
-        <gnm:Cell Row="17" Col="7" ValueType="40">21.59</gnm:Cell>
+        <gnm:Cell Row="17" Col="7" ValueType="40">26.120000000000001</gnm:Cell>
         <gnm:Cell Row="17" Col="8" ValueType="40">0</gnm:Cell>
         <gnm:Cell Row="17" Col="9" ExprID="1"/>
-        <gnm:Cell Row="17" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B086QH8LD7</gnm:Cell>
-        <gnm:Cell Row="18" Col="0" ValueType="60">gp ultra</gnm:Cell>
-        <gnm:Cell Row="18" Col="1" ValueType="60">alkaline</gnm:Cell>
+        <gnm:Cell Row="17" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B07MLDJF3B</gnm:Cell>
+        <gnm:Cell Row="18" Col="0" ValueType="60">ebl</gnm:Cell>
+        <gnm:Cell Row="18" Col="1" ValueType="60">ni-mh</gnm:Cell>
         <gnm:Cell Row="18" Col="2" ValueType="60">n</gnm:Cell>
-        <gnm:Cell Row="18" Col="3" ValueType="40">598</gnm:Cell>
-        <gnm:Cell Row="18" Col="4" ValueType="40">1</gnm:Cell>
-        <gnm:Cell Row="18" Col="5" ValueType="40">20</gnm:Cell>
-        <gnm:Cell Row="18" Col="6" ValueType="40">4</gnm:Cell>
-        <gnm:Cell Row="18" Col="7">=7.9900000000000002*4*0.94999999999999996</gnm:Cell>
+        <gnm:Cell Row="18" Col="3" ValueType="40">1100</gnm:Cell>
+        <gnm:Cell Row="18" Col="4" ValueType="40">1200</gnm:Cell>
+        <gnm:Cell Row="18" Col="5" ValueType="40">16</gnm:Cell>
+        <gnm:Cell Row="18" Col="6" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="18" Col="7" ValueType="40">12.15</gnm:Cell>
         <gnm:Cell Row="18" Col="8" ValueType="40">0</gnm:Cell>
         <gnm:Cell Row="18" Col="9" ExprID="1"/>
-        <gnm:Cell Row="18" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B000UZBUS6</gnm:Cell>
-        <gnm:Cell Row="19" Col="0" ValueType="60">hiquick</gnm:Cell>
+        <gnm:Cell Row="18" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B011RPC6JO</gnm:Cell>
+        <gnm:Cell Row="19" Col="0" ValueType="60">ebl rainbow</gnm:Cell>
         <gnm:Cell Row="19" Col="1" ValueType="60">ni-mh</gnm:Cell>
         <gnm:Cell Row="19" Col="2" ValueType="60">n</gnm:Cell>
         <gnm:Cell Row="19" Col="3" ValueType="40">1100</gnm:Cell>
         <gnm:Cell Row="19" Col="4" ValueType="40">1200</gnm:Cell>
-        <gnm:Cell Row="19" Col="5" ValueType="40">24</gnm:Cell>
+        <gnm:Cell Row="19" Col="5" ValueType="40">10</gnm:Cell>
         <gnm:Cell Row="19" Col="6" ValueType="40">1</gnm:Cell>
-        <gnm:Cell Row="19" Col="7" ValueType="40">16.989999999999998</gnm:Cell>
+        <gnm:Cell Row="19" Col="7" ValueType="40">7.1900000000000004</gnm:Cell>
         <gnm:Cell Row="19" Col="8" ValueType="40">0</gnm:Cell>
         <gnm:Cell Row="19" Col="9" ExprID="1"/>
-        <gnm:Cell Row="19" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B0BMPJ8FQ6</gnm:Cell>
-        <gnm:Cell Row="20" Col="0" ValueType="60">kinon</gnm:Cell>
+        <gnm:Cell Row="19" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B088LNQMYK</gnm:Cell>
+        <gnm:Cell Row="20" Col="0" ValueType="60">ebl solar light</gnm:Cell>
         <gnm:Cell Row="20" Col="1" ValueType="60">ni-mh</gnm:Cell>
         <gnm:Cell Row="20" Col="2" ValueType="60">n</gnm:Cell>
-        <gnm:Cell Row="20" Col="3" ValueType="40">750</gnm:Cell>
-        <gnm:Cell Row="20" Col="4" ValueType="40">1000</gnm:Cell>
-        <gnm:Cell Row="20" Col="5" ValueType="40">6</gnm:Cell>
+        <gnm:Cell Row="20" Col="3" ValueType="40">500</gnm:Cell>
+        <gnm:Cell Row="20" Col="4" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="20" Col="5" ValueType="40">20</gnm:Cell>
         <gnm:Cell Row="20" Col="6" ValueType="40">1</gnm:Cell>
-        <gnm:Cell Row="20" Col="7" ValueType="40">9.9900000000000002</gnm:Cell>
+        <gnm:Cell Row="20" Col="7" ValueType="40">10.19</gnm:Cell>
         <gnm:Cell Row="20" Col="8" ValueType="40">0</gnm:Cell>
         <gnm:Cell Row="20" Col="9" ExprID="1"/>
-        <gnm:Cell Row="20" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B09D3HY76R</gnm:Cell>
-        <gnm:Cell Row="21" Col="0" ValueType="60">kinsun</gnm:Cell>
-        <gnm:Cell Row="21" Col="1" ValueType="60">ni-mh</gnm:Cell>
+        <gnm:Cell Row="20" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B08JB5D51V</gnm:Cell>
+        <gnm:Cell Row="21" Col="0" ValueType="60">energizer max(formerly energizer ultra+)</gnm:Cell>
+        <gnm:Cell Row="21" Col="1" ValueType="60">alkaline</gnm:Cell>
         <gnm:Cell Row="21" Col="2" ValueType="60">n</gnm:Cell>
-        <gnm:Cell Row="21" Col="3" ValueType="40">700</gnm:Cell>
-        <gnm:Cell Row="21" Col="4" ValueType="40">1000</gnm:Cell>
-        <gnm:Cell Row="21" Col="5" ValueType="40">8</gnm:Cell>
+        <gnm:Cell Row="21" Col="3" ValueType="40">405</gnm:Cell>
+        <gnm:Cell Row="21" Col="4" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="21" Col="5" ValueType="40">14</gnm:Cell>
         <gnm:Cell Row="21" Col="6" ValueType="40">1</gnm:Cell>
-        <gnm:Cell Row="21" Col="7" ValueType="40">9.9900000000000002</gnm:Cell>
+        <gnm:Cell Row="21" Col="7" ValueType="40">16.140000000000001</gnm:Cell>
         <gnm:Cell Row="21" Col="8" ValueType="40">0</gnm:Cell>
         <gnm:Cell Row="21" Col="9" ExprID="1"/>
-        <gnm:Cell Row="21" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B0B8T3PZBK</gnm:Cell>
-        <gnm:Cell Row="22" Col="0" ValueType="60">kodak max super alkaline</gnm:Cell>
-        <gnm:Cell Row="22" Col="1" ValueType="60">alkaline</gnm:Cell>
+        <gnm:Cell Row="21" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B0C348QX5N</gnm:Cell>
+        <gnm:Cell Row="22" Col="0" ValueType="60">energizer recharge</gnm:Cell>
+        <gnm:Cell Row="22" Col="1" ValueType="60">ni-mh</gnm:Cell>
         <gnm:Cell Row="22" Col="2" ValueType="60">n</gnm:Cell>
-        <gnm:Cell Row="22" Col="3" ValueType="40">1150</gnm:Cell>
-        <gnm:Cell Row="22" Col="4" ValueType="40">1</gnm:Cell>
-        <gnm:Cell Row="22" Col="5" ValueType="40">20</gnm:Cell>
+        <gnm:Cell Row="22" Col="3" ValueType="40">750</gnm:Cell>
+        <gnm:Cell Row="22" Col="4" ValueType="40">500</gnm:Cell>
+        <gnm:Cell Row="22" Col="5" ValueType="40">12</gnm:Cell>
         <gnm:Cell Row="22" Col="6" ValueType="40">1</gnm:Cell>
-        <gnm:Cell Row="22" Col="7" ValueType="40">7.9900000000000002</gnm:Cell>
+        <gnm:Cell Row="22" Col="7" ValueType="40">21.59</gnm:Cell>
         <gnm:Cell Row="22" Col="8" ValueType="40">0</gnm:Cell>
         <gnm:Cell Row="22" Col="9" ExprID="1"/>
-        <gnm:Cell Row="22" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B0BBD1SV9K</gnm:Cell>
-        <gnm:Cell Row="23" Col="0" ValueType="60">kodak xtralife</gnm:Cell>
-        <gnm:Cell Row="23" Col="1" ValueType="60">alkaline</gnm:Cell>
+        <gnm:Cell Row="22" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B086QH8LD7</gnm:Cell>
+        <gnm:Cell Row="23" Col="0" ValueType="60">excelltec</gnm:Cell>
+        <gnm:Cell Row="23" Col="1" ValueType="60">zinc carbon</gnm:Cell>
         <gnm:Cell Row="23" Col="2" ValueType="60">n</gnm:Cell>
-        <gnm:Cell Row="23" Col="3" ValueType="40">1050</gnm:Cell>
+        <gnm:Cell Row="23" Col="3" ValueType="40">1000</gnm:Cell>
         <gnm:Cell Row="23" Col="4" ValueType="40">1</gnm:Cell>
-        <gnm:Cell Row="23" Col="5" ValueType="40">60</gnm:Cell>
-        <gnm:Cell Row="23" Col="6" ValueType="40">1</gnm:Cell>
-        <gnm:Cell Row="23" Col="7">=16.989999999999998</gnm:Cell>
+        <gnm:Cell Row="23" Col="5" ValueType="40">11</gnm:Cell>
+        <gnm:Cell Row="23" Col="6" ValueType="40">2</gnm:Cell>
+        <gnm:Cell Row="23" Col="7" ExprID="5">=3.4399999999999999*2*0.94999999999999996</gnm:Cell>
         <gnm:Cell Row="23" Col="8" ValueType="40">0</gnm:Cell>
         <gnm:Cell Row="23" Col="9" ExprID="1"/>
-        <gnm:Cell Row="23" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B00NFR1NRO</gnm:Cell>
-        <gnm:Cell Row="24" Col="0" ValueType="60">panasonic eneloop pro</gnm:Cell>
-        <gnm:Cell Row="24" Col="1" ValueType="60">ni-mh</gnm:Cell>
+        <gnm:Cell Row="23" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B088M5YT6Y</gnm:Cell>
+        <gnm:Cell Row="24" Col="0" ValueType="60">extrastar</gnm:Cell>
+        <gnm:Cell Row="24" Col="1" ValueType="60">alkaline</gnm:Cell>
         <gnm:Cell Row="24" Col="2" ValueType="60">n</gnm:Cell>
-        <gnm:Cell Row="24" Col="3" ValueType="40">930</gnm:Cell>
-        <gnm:Cell Row="24" Col="4" ValueType="40">500</gnm:Cell>
-        <gnm:Cell Row="24" Col="5" ValueType="40">4</gnm:Cell>
+        <gnm:Cell Row="24" Col="3" ValueType="40">1050</gnm:Cell>
+        <gnm:Cell Row="24" Col="4" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="24" Col="5" ValueType="40">32</gnm:Cell>
         <gnm:Cell Row="24" Col="6" ValueType="40">1</gnm:Cell>
-        <gnm:Cell Row="24" Col="7" ValueType="40">17.449999999999999</gnm:Cell>
+        <gnm:Cell Row="24" Col="7" ValueType="40">7.5899999999999999</gnm:Cell>
         <gnm:Cell Row="24" Col="8" ValueType="40">0</gnm:Cell>
         <gnm:Cell Row="24" Col="9" ExprID="1"/>
-        <gnm:Cell Row="24" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B09ZLB24JD</gnm:Cell>
-        <gnm:Cell Row="25" Col="0" ValueType="60">panasonic everyday power</gnm:Cell>
+        <gnm:Cell Row="24" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B0BC839D1G</gnm:Cell>
+        <gnm:Cell Row="25" Col="0" ValueType="60">fuji enviromax</gnm:Cell>
         <gnm:Cell Row="25" Col="1" ValueType="60">alkaline</gnm:Cell>
-        <gnm:Cell Row="25" Col="2" ValueType="60">y</gnm:Cell>
-        <gnm:Cell Row="25" Col="3" ValueType="40">405</gnm:Cell>
+        <gnm:Cell Row="25" Col="2" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="25" Col="3" ValueType="40">1160</gnm:Cell>
         <gnm:Cell Row="25" Col="4" ValueType="40">1</gnm:Cell>
-        <gnm:Cell Row="25" Col="5" ValueType="40">40</gnm:Cell>
+        <gnm:Cell Row="25" Col="5" ValueType="40">24</gnm:Cell>
         <gnm:Cell Row="25" Col="6" ValueType="40">1</gnm:Cell>
-        <gnm:Cell Row="25" Col="7" ValueType="40">14.4</gnm:Cell>
+        <gnm:Cell Row="25" Col="7" ValueType="40">14.949999999999999</gnm:Cell>
         <gnm:Cell Row="25" Col="8" ValueType="40">0</gnm:Cell>
         <gnm:Cell Row="25" Col="9" ExprID="1"/>
-        <gnm:Cell Row="25" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B08CF24SS1</gnm:Cell>
-        <gnm:Cell Row="26" Col="0" ValueType="60">panasonic HHR-4DPA</gnm:Cell>
-        <gnm:Cell Row="26" Col="1" ValueType="60">ni-mh</gnm:Cell>
-        <gnm:Cell Row="26" Col="2" ValueType="60">n</gnm:Cell>
-        <gnm:Cell Row="26" Col="3" ValueType="40">700</gnm:Cell>
-        <gnm:Cell Row="26" Col="4" ValueType="40">2000</gnm:Cell>
-        <gnm:Cell Row="26" Col="5" ValueType="40">8</gnm:Cell>
-        <gnm:Cell Row="26" Col="6" ValueType="40">1</gnm:Cell>
-        <gnm:Cell Row="26" Col="7" ValueType="40">15.289999999999999</gnm:Cell>
+        <gnm:Cell Row="25" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B0BL3R91NW</gnm:Cell>
+        <gnm:Cell Row="26" Col="0" ValueType="60">gp extra</gnm:Cell>
+        <gnm:Cell Row="26" Col="1" ValueType="60">alkaline</gnm:Cell>
+        <gnm:Cell Row="26" Col="2" ValueType="60">y</gnm:Cell>
+        <gnm:Cell Row="26" Col="3" ValueType="40">405</gnm:Cell>
+        <gnm:Cell Row="26" Col="4" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="26" Col="5" ValueType="40">40</gnm:Cell>
+        <gnm:Cell Row="26" Col="6" ValueType="40">4</gnm:Cell>
+        <gnm:Cell Row="26" Col="7" ExprID="6">=14.99*4*0.94999999999999996</gnm:Cell>
         <gnm:Cell Row="26" Col="8" ValueType="40">0</gnm:Cell>
         <gnm:Cell Row="26" Col="9" ExprID="1"/>
-        <gnm:Cell Row="26" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B09B1M65VX</gnm:Cell>
-        <gnm:Cell Row="27" Col="0" ValueType="60">panasonic HHR-55AAABU</gnm:Cell>
-        <gnm:Cell Row="27" Col="1" ValueType="60">ni-mh</gnm:Cell>
+        <gnm:Cell Row="26" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B07JFDT4R2</gnm:Cell>
+        <gnm:Cell Row="27" Col="0" ValueType="60">gp ultra</gnm:Cell>
+        <gnm:Cell Row="27" Col="1" ValueType="60">alkaline</gnm:Cell>
         <gnm:Cell Row="27" Col="2" ValueType="60">n</gnm:Cell>
-        <gnm:Cell Row="27" Col="3" ValueType="40">550</gnm:Cell>
-        <gnm:Cell Row="27" Col="4" ValueType="40">1500</gnm:Cell>
-        <gnm:Cell Row="27" Col="5" ValueType="40">6</gnm:Cell>
-        <gnm:Cell Row="27" Col="6" ValueType="40">1</gnm:Cell>
-        <gnm:Cell Row="27" Col="7">=15.99*0.90000000000000002</gnm:Cell>
+        <gnm:Cell Row="27" Col="3" ValueType="40">598</gnm:Cell>
+        <gnm:Cell Row="27" Col="4" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="27" Col="5" ValueType="40">20</gnm:Cell>
+        <gnm:Cell Row="27" Col="6" ValueType="40">4</gnm:Cell>
+        <gnm:Cell Row="27" Col="7" ExprID="7">=7.9900000000000002*4*0.94999999999999996</gnm:Cell>
         <gnm:Cell Row="27" Col="8" ValueType="40">0</gnm:Cell>
         <gnm:Cell Row="27" Col="9" ExprID="1"/>
-        <gnm:Cell Row="27" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B0BTJ7TQ4B</gnm:Cell>
-        <gnm:Cell Row="28" Col="0" ValueType="60">panasonic HHR-65AAABU</gnm:Cell>
+        <gnm:Cell Row="27" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B000UZBUS6</gnm:Cell>
+        <gnm:Cell Row="28" Col="0" ValueType="60">hiquick</gnm:Cell>
         <gnm:Cell Row="28" Col="1" ValueType="60">ni-mh</gnm:Cell>
         <gnm:Cell Row="28" Col="2" ValueType="60">n</gnm:Cell>
-        <gnm:Cell Row="28" Col="3" ValueType="40">630</gnm:Cell>
-        <gnm:Cell Row="28" Col="4" ValueType="40">2000</gnm:Cell>
-        <gnm:Cell Row="28" Col="5" ValueType="40">8</gnm:Cell>
+        <gnm:Cell Row="28" Col="3" ValueType="40">1100</gnm:Cell>
+        <gnm:Cell Row="28" Col="4" ValueType="40">1200</gnm:Cell>
+        <gnm:Cell Row="28" Col="5" ValueType="40">24</gnm:Cell>
         <gnm:Cell Row="28" Col="6" ValueType="40">1</gnm:Cell>
-        <gnm:Cell Row="28" Col="7" ValueType="40">17.989999999999998</gnm:Cell>
+        <gnm:Cell Row="28" Col="7" ValueType="40">16.989999999999998</gnm:Cell>
         <gnm:Cell Row="28" Col="8" ValueType="40">0</gnm:Cell>
         <gnm:Cell Row="28" Col="9" ExprID="1"/>
-        <gnm:Cell Row="28" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B09B1L87XK</gnm:Cell>
-        <gnm:Cell Row="29" Col="0" ValueType="60">panasonic HHR-70AAAB</gnm:Cell>
+        <gnm:Cell Row="28" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B0BMPJ8FQ6</gnm:Cell>
+        <gnm:Cell Row="29" Col="0" ValueType="60">hixon</gnm:Cell>
         <gnm:Cell Row="29" Col="1" ValueType="60">ni-mh</gnm:Cell>
         <gnm:Cell Row="29" Col="2" ValueType="60">n</gnm:Cell>
-        <gnm:Cell Row="29" Col="3" ValueType="40">750</gnm:Cell>
-        <gnm:Cell Row="29" Col="4" ValueType="40">200</gnm:Cell>
-        <gnm:Cell Row="29" Col="5" ValueType="40">12</gnm:Cell>
+        <gnm:Cell Row="29" Col="3" ValueType="40">1100</gnm:Cell>
+        <gnm:Cell Row="29" Col="4" ValueType="40">1500</gnm:Cell>
+        <gnm:Cell Row="29" Col="5" ValueType="40">4</gnm:Cell>
         <gnm:Cell Row="29" Col="6" ValueType="40">1</gnm:Cell>
-        <gnm:Cell Row="29" Col="7" ValueType="40">21.989999999999998</gnm:Cell>
+        <gnm:Cell Row="29" Col="7" ValueType="40">19.989999999999998</gnm:Cell>
         <gnm:Cell Row="29" Col="8" ValueType="40">0</gnm:Cell>
         <gnm:Cell Row="29" Col="9" ExprID="1"/>
-        <gnm:Cell Row="29" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B0BLNLSTP3</gnm:Cell>
-        <gnm:Cell Row="30" Col="0" ValueType="60">philips power alkaline</gnm:Cell>
-        <gnm:Cell Row="30" Col="1" ValueType="60">alkaline</gnm:Cell>
+        <gnm:Cell Row="29" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B09LCBJYK8</gnm:Cell>
+        <gnm:Cell Row="30" Col="0" ValueType="60">kinon</gnm:Cell>
+        <gnm:Cell Row="30" Col="1" ValueType="60">ni-mh</gnm:Cell>
         <gnm:Cell Row="30" Col="2" ValueType="60">n</gnm:Cell>
-        <gnm:Cell Row="30" Col="3" ValueType="40">405</gnm:Cell>
-        <gnm:Cell Row="30" Col="4" ValueType="40">1</gnm:Cell>
-        <gnm:Cell Row="30" Col="5" ValueType="40">16</gnm:Cell>
+        <gnm:Cell Row="30" Col="3" ValueType="40">750</gnm:Cell>
+        <gnm:Cell Row="30" Col="4" ValueType="40">1000</gnm:Cell>
+        <gnm:Cell Row="30" Col="5" ValueType="40">6</gnm:Cell>
         <gnm:Cell Row="30" Col="6" ValueType="40">1</gnm:Cell>
-        <gnm:Cell Row="30" Col="7" ValueType="40">6.9900000000000002</gnm:Cell>
+        <gnm:Cell Row="30" Col="7" ValueType="40">9.9900000000000002</gnm:Cell>
         <gnm:Cell Row="30" Col="8" ValueType="40">0</gnm:Cell>
         <gnm:Cell Row="30" Col="9" ExprID="1"/>
-        <gnm:Cell Row="30" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B006OLYYTM</gnm:Cell>
-        <gnm:Cell Row="31" Col="0" ValueType="60">powxs</gnm:Cell>
+        <gnm:Cell Row="30" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B09D3HY76R</gnm:Cell>
+        <gnm:Cell Row="31" Col="0" ValueType="60">kinsun</gnm:Cell>
         <gnm:Cell Row="31" Col="1" ValueType="60">ni-mh</gnm:Cell>
         <gnm:Cell Row="31" Col="2" ValueType="60">n</gnm:Cell>
-        <gnm:Cell Row="31" Col="3" ValueType="40">1100</gnm:Cell>
-        <gnm:Cell Row="31" Col="4" ValueType="40">1200</gnm:Cell>
-        <gnm:Cell Row="31" Col="5" ValueType="40">16</gnm:Cell>
+        <gnm:Cell Row="31" Col="3" ValueType="40">700</gnm:Cell>
+        <gnm:Cell Row="31" Col="4" ValueType="40">1000</gnm:Cell>
+        <gnm:Cell Row="31" Col="5" ValueType="40">8</gnm:Cell>
         <gnm:Cell Row="31" Col="6" ValueType="40">1</gnm:Cell>
-        <gnm:Cell Row="31" Col="7" ValueType="40">15.49</gnm:Cell>
+        <gnm:Cell Row="31" Col="7" ValueType="40">9.9900000000000002</gnm:Cell>
         <gnm:Cell Row="31" Col="8" ValueType="40">0</gnm:Cell>
         <gnm:Cell Row="31" Col="9" ExprID="1"/>
-        <gnm:Cell Row="31" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B08G8H17SV</gnm:Cell>
-        <gnm:Cell Row="32" Col="0" ValueType="60">reacell</gnm:Cell>
-        <gnm:Cell Row="32" Col="1" ValueType="60">ni-mh</gnm:Cell>
+        <gnm:Cell Row="31" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B0B8T3PZBK</gnm:Cell>
+        <gnm:Cell Row="32" Col="0" ValueType="60">kodak max super alkaline</gnm:Cell>
+        <gnm:Cell Row="32" Col="1" ValueType="60">alkaline</gnm:Cell>
         <gnm:Cell Row="32" Col="2" ValueType="60">n</gnm:Cell>
-        <gnm:Cell Row="32" Col="3" ValueType="40">1100</gnm:Cell>
-        <gnm:Cell Row="32" Col="4" ValueType="40">1200</gnm:Cell>
-        <gnm:Cell Row="32" Col="5" ValueType="40">8</gnm:Cell>
+        <gnm:Cell Row="32" Col="3" ValueType="40">1150</gnm:Cell>
+        <gnm:Cell Row="32" Col="4" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="32" Col="5" ValueType="40">20</gnm:Cell>
         <gnm:Cell Row="32" Col="6" ValueType="40">1</gnm:Cell>
         <gnm:Cell Row="32" Col="7" ValueType="40">7.9900000000000002</gnm:Cell>
         <gnm:Cell Row="32" Col="8" ValueType="40">0</gnm:Cell>
         <gnm:Cell Row="32" Col="9" ExprID="1"/>
-        <gnm:Cell Row="32" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B088GWMF3Z</gnm:Cell>
-        <gnm:Cell Row="33" Col="0" ValueType="60">tanatare rechargeable</gnm:Cell>
-        <gnm:Cell Row="33" Col="1" ValueType="60">ni-mh</gnm:Cell>
+        <gnm:Cell Row="32" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B0BBD1SV9K</gnm:Cell>
+        <gnm:Cell Row="33" Col="0" ValueType="60">kodak xtralife</gnm:Cell>
+        <gnm:Cell Row="33" Col="1" ValueType="60">alkaline</gnm:Cell>
         <gnm:Cell Row="33" Col="2" ValueType="60">n</gnm:Cell>
-        <gnm:Cell Row="33" Col="3" ValueType="40">1000</gnm:Cell>
-        <gnm:Cell Row="33" Col="4" ValueType="40">1200</gnm:Cell>
-        <gnm:Cell Row="33" Col="5" ValueType="40">12</gnm:Cell>
-        <gnm:Cell Row="33" Col="6" ValueType="40">4</gnm:Cell>
-        <gnm:Cell Row="33" Col="7">=8.9900000000000002*4*0.94999999999999996</gnm:Cell>
+        <gnm:Cell Row="33" Col="3" ValueType="40">1050</gnm:Cell>
+        <gnm:Cell Row="33" Col="4" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="33" Col="5" ValueType="40">60</gnm:Cell>
+        <gnm:Cell Row="33" Col="6" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="33" Col="7" ExprID="8">=16.989999999999998</gnm:Cell>
         <gnm:Cell Row="33" Col="8" ValueType="40">0</gnm:Cell>
         <gnm:Cell Row="33" Col="9" ExprID="1"/>
-        <gnm:Cell Row="33" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B098NN1LC2</gnm:Cell>
+        <gnm:Cell Row="33" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B00NFR1NRO</gnm:Cell>
+        <gnm:Cell Row="34" Col="0" ValueType="60">kratax</gnm:Cell>
+        <gnm:Cell Row="34" Col="1" ValueType="60">lithium</gnm:Cell>
+        <gnm:Cell Row="34" Col="2" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="34" Col="3" ExprID="9">=1100/1.5</gnm:Cell>
+        <gnm:Cell Row="34" Col="4" ValueType="40">1600</gnm:Cell>
+        <gnm:Cell Row="34" Col="5" ValueType="40">12</gnm:Cell>
+        <gnm:Cell Row="34" Col="6" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="34" Col="7" ValueType="40">49.859999999999999</gnm:Cell>
+        <gnm:Cell Row="34" Col="8" ValueType="40">0</gnm:Cell>
+        <gnm:Cell Row="34" Col="9" ExprID="1"/>
+        <gnm:Cell Row="34" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B0B4WK9CYB</gnm:Cell>
+        <gnm:Cell Row="35" Col="0" ValueType="60">lepro</gnm:Cell>
+        <gnm:Cell Row="35" Col="1" ValueType="60">alkaline</gnm:Cell>
+        <gnm:Cell Row="35" Col="2" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="35" Col="3" ValueType="40">1200</gnm:Cell>
+        <gnm:Cell Row="35" Col="4" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="35" Col="5" ValueType="40">48</gnm:Cell>
+        <gnm:Cell Row="35" Col="6" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="35" Col="7" ValueType="40">11.880000000000001</gnm:Cell>
+        <gnm:Cell Row="35" Col="8" ValueType="40">0</gnm:Cell>
+        <gnm:Cell Row="35" Col="9" ExprID="1"/>
+        <gnm:Cell Row="35" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B09FY2KMWQ</gnm:Cell>
+        <gnm:Cell Row="36" Col="0" ValueType="60">maplin</gnm:Cell>
+        <gnm:Cell Row="36" Col="1" ValueType="60">alkaline</gnm:Cell>
+        <gnm:Cell Row="36" Col="2" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="36" Col="3" ValueType="40">1300</gnm:Cell>
+        <gnm:Cell Row="36" Col="4" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="36" Col="5" ValueType="40">96</gnm:Cell>
+        <gnm:Cell Row="36" Col="6" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="36" Col="7" ValueType="40">21.34</gnm:Cell>
+        <gnm:Cell Row="36" Col="8" ValueType="40">0</gnm:Cell>
+        <gnm:Cell Row="36" Col="9" ExprID="1"/>
+        <gnm:Cell Row="36" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B07VCLYQQL</gnm:Cell>
+        <gnm:Cell Row="37" Col="0" ValueType="60">panasonic eneloop pro</gnm:Cell>
+        <gnm:Cell Row="37" Col="1" ValueType="60">ni-mh</gnm:Cell>
+        <gnm:Cell Row="37" Col="2" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="37" Col="3" ValueType="40">930</gnm:Cell>
+        <gnm:Cell Row="37" Col="4" ValueType="40">500</gnm:Cell>
+        <gnm:Cell Row="37" Col="5" ValueType="40">4</gnm:Cell>
+        <gnm:Cell Row="37" Col="6" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="37" Col="7" ValueType="40">17.449999999999999</gnm:Cell>
+        <gnm:Cell Row="37" Col="8" ValueType="40">0</gnm:Cell>
+        <gnm:Cell Row="37" Col="9" ExprID="1"/>
+        <gnm:Cell Row="37" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B09ZLB24JD</gnm:Cell>
+        <gnm:Cell Row="38" Col="0" ValueType="60">panasonic everyday power</gnm:Cell>
+        <gnm:Cell Row="38" Col="1" ValueType="60">alkaline</gnm:Cell>
+        <gnm:Cell Row="38" Col="2" ValueType="60">y</gnm:Cell>
+        <gnm:Cell Row="38" Col="3" ValueType="40">405</gnm:Cell>
+        <gnm:Cell Row="38" Col="4" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="38" Col="5" ValueType="40">40</gnm:Cell>
+        <gnm:Cell Row="38" Col="6" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="38" Col="7" ValueType="40">14.4</gnm:Cell>
+        <gnm:Cell Row="38" Col="8" ValueType="40">0</gnm:Cell>
+        <gnm:Cell Row="38" Col="9" ExprID="1"/>
+        <gnm:Cell Row="38" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B08CF24SS1</gnm:Cell>
+        <gnm:Cell Row="39" Col="0" ValueType="60">panasonic HHR-4DPA</gnm:Cell>
+        <gnm:Cell Row="39" Col="1" ValueType="60">ni-mh</gnm:Cell>
+        <gnm:Cell Row="39" Col="2" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="39" Col="3" ValueType="40">700</gnm:Cell>
+        <gnm:Cell Row="39" Col="4" ValueType="40">2000</gnm:Cell>
+        <gnm:Cell Row="39" Col="5" ValueType="40">8</gnm:Cell>
+        <gnm:Cell Row="39" Col="6" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="39" Col="7" ValueType="40">15.289999999999999</gnm:Cell>
+        <gnm:Cell Row="39" Col="8" ValueType="40">0</gnm:Cell>
+        <gnm:Cell Row="39" Col="9" ExprID="1"/>
+        <gnm:Cell Row="39" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B09B1M65VX</gnm:Cell>
+        <gnm:Cell Row="40" Col="0" ValueType="60">panasonic HHR-55AAABU</gnm:Cell>
+        <gnm:Cell Row="40" Col="1" ValueType="60">ni-mh</gnm:Cell>
+        <gnm:Cell Row="40" Col="2" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="40" Col="3" ValueType="40">550</gnm:Cell>
+        <gnm:Cell Row="40" Col="4" ValueType="40">1500</gnm:Cell>
+        <gnm:Cell Row="40" Col="5" ValueType="40">6</gnm:Cell>
+        <gnm:Cell Row="40" Col="6" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="40" Col="7" ExprID="10">=15.99*0.90000000000000002</gnm:Cell>
+        <gnm:Cell Row="40" Col="8" ValueType="40">0</gnm:Cell>
+        <gnm:Cell Row="40" Col="9" ExprID="1"/>
+        <gnm:Cell Row="40" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B0BTJ7TQ4B</gnm:Cell>
+        <gnm:Cell Row="41" Col="0" ValueType="60">panasonic HHR-65AAABU</gnm:Cell>
+        <gnm:Cell Row="41" Col="1" ValueType="60">ni-mh</gnm:Cell>
+        <gnm:Cell Row="41" Col="2" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="41" Col="3" ValueType="40">630</gnm:Cell>
+        <gnm:Cell Row="41" Col="4" ValueType="40">2000</gnm:Cell>
+        <gnm:Cell Row="41" Col="5" ValueType="40">8</gnm:Cell>
+        <gnm:Cell Row="41" Col="6" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="41" Col="7" ValueType="40">17.989999999999998</gnm:Cell>
+        <gnm:Cell Row="41" Col="8" ValueType="40">0</gnm:Cell>
+        <gnm:Cell Row="41" Col="9" ExprID="1"/>
+        <gnm:Cell Row="41" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B09B1L87XK</gnm:Cell>
+        <gnm:Cell Row="42" Col="0" ValueType="60">panasonic HHR-70AAAB</gnm:Cell>
+        <gnm:Cell Row="42" Col="1" ValueType="60">ni-mh</gnm:Cell>
+        <gnm:Cell Row="42" Col="2" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="42" Col="3" ValueType="40">750</gnm:Cell>
+        <gnm:Cell Row="42" Col="4" ValueType="40">200</gnm:Cell>
+        <gnm:Cell Row="42" Col="5" ValueType="40">12</gnm:Cell>
+        <gnm:Cell Row="42" Col="6" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="42" Col="7" ValueType="40">21.989999999999998</gnm:Cell>
+        <gnm:Cell Row="42" Col="8" ValueType="40">0</gnm:Cell>
+        <gnm:Cell Row="42" Col="9" ExprID="1"/>
+        <gnm:Cell Row="42" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B0BLNLSTP3</gnm:Cell>
+        <gnm:Cell Row="43" Col="0" ValueType="60">philips power alkaline</gnm:Cell>
+        <gnm:Cell Row="43" Col="1" ValueType="60">alkaline</gnm:Cell>
+        <gnm:Cell Row="43" Col="2" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="43" Col="3" ValueType="40">405</gnm:Cell>
+        <gnm:Cell Row="43" Col="4" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="43" Col="5" ValueType="40">16</gnm:Cell>
+        <gnm:Cell Row="43" Col="6" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="43" Col="7" ValueType="40">6.9900000000000002</gnm:Cell>
+        <gnm:Cell Row="43" Col="8" ValueType="40">0</gnm:Cell>
+        <gnm:Cell Row="43" Col="9" ExprID="1"/>
+        <gnm:Cell Row="43" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B006OLYYTM</gnm:Cell>
+        <gnm:Cell Row="44" Col="0" ValueType="60">pkcell</gnm:Cell>
+        <gnm:Cell Row="44" Col="1" ValueType="60">ni-mh</gnm:Cell>
+        <gnm:Cell Row="44" Col="2" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="44" Col="3" ValueType="40">400</gnm:Cell>
+        <gnm:Cell Row="44" Col="4" ValueType="40">500</gnm:Cell>
+        <gnm:Cell Row="44" Col="5" ValueType="40">6</gnm:Cell>
+        <gnm:Cell Row="44" Col="6" ValueType="40">4</gnm:Cell>
+        <gnm:Cell Row="44" Col="7" ExprID="2"/>
+        <gnm:Cell Row="44" Col="8" ValueType="40">0</gnm:Cell>
+        <gnm:Cell Row="44" Col="9" ExprID="1"/>
+        <gnm:Cell Row="44" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B08CZP911X</gnm:Cell>
+        <gnm:Cell Row="45" Col="0" ValueType="60">powerowl</gnm:Cell>
+        <gnm:Cell Row="45" Col="1" ValueType="60">ni-mh</gnm:Cell>
+        <gnm:Cell Row="45" Col="2" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="45" Col="3" ValueType="40">1000</gnm:Cell>
+        <gnm:Cell Row="45" Col="4" ValueType="40">1200</gnm:Cell>
+        <gnm:Cell Row="45" Col="5" ValueType="40">24</gnm:Cell>
+        <gnm:Cell Row="45" Col="6" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="45" Col="7" ValueType="40">16.989999999999998</gnm:Cell>
+        <gnm:Cell Row="45" Col="8" ValueType="40">0</gnm:Cell>
+        <gnm:Cell Row="45" Col="9" ExprID="1"/>
+        <gnm:Cell Row="45" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B07C9Y6FBG</gnm:Cell>
+        <gnm:Cell Row="46" Col="0" ValueType="60">powxs</gnm:Cell>
+        <gnm:Cell Row="46" Col="1" ValueType="60">lithium-iron</gnm:Cell>
+        <gnm:Cell Row="46" Col="2" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="46" Col="3" ValueType="40">1200</gnm:Cell>
+        <gnm:Cell Row="46" Col="4" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="46" Col="5" ValueType="40">8</gnm:Cell>
+        <gnm:Cell Row="46" Col="6" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="46" Col="7" ExprID="11">=18.989999999999998*0.76000000000000001</gnm:Cell>
+        <gnm:Cell Row="46" Col="8" ValueType="40">0</gnm:Cell>
+        <gnm:Cell Row="46" Col="9" ExprID="1"/>
+        <gnm:Cell Row="46" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B0C2Q4LL8L</gnm:Cell>
+        <gnm:Cell Row="47" Col="0" ValueType="60">powxs</gnm:Cell>
+        <gnm:Cell Row="47" Col="1" ValueType="60">ni-mh</gnm:Cell>
+        <gnm:Cell Row="47" Col="2" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="47" Col="3" ValueType="40">1100</gnm:Cell>
+        <gnm:Cell Row="47" Col="4" ValueType="40">1200</gnm:Cell>
+        <gnm:Cell Row="47" Col="5" ValueType="40">16</gnm:Cell>
+        <gnm:Cell Row="47" Col="6" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="47" Col="7" ValueType="40">15.49</gnm:Cell>
+        <gnm:Cell Row="47" Col="8" ValueType="40">0</gnm:Cell>
+        <gnm:Cell Row="47" Col="9" ExprID="1"/>
+        <gnm:Cell Row="47" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B08G8H17SV</gnm:Cell>
+        <gnm:Cell Row="48" Col="0" ValueType="60">reacell</gnm:Cell>
+        <gnm:Cell Row="48" Col="1" ValueType="60">ni-mh</gnm:Cell>
+        <gnm:Cell Row="48" Col="2" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="48" Col="3" ValueType="40">1100</gnm:Cell>
+        <gnm:Cell Row="48" Col="4" ValueType="40">1200</gnm:Cell>
+        <gnm:Cell Row="48" Col="5" ValueType="40">8</gnm:Cell>
+        <gnm:Cell Row="48" Col="6" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="48" Col="7" ValueType="40">7.9900000000000002</gnm:Cell>
+        <gnm:Cell Row="48" Col="8" ValueType="40">0</gnm:Cell>
+        <gnm:Cell Row="48" Col="9" ExprID="1"/>
+        <gnm:Cell Row="48" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B088GWMF3Z</gnm:Cell>
+        <gnm:Cell Row="49" Col="0" ValueType="60">tanatare rechargeable</gnm:Cell>
+        <gnm:Cell Row="49" Col="1" ValueType="60">ni-mh</gnm:Cell>
+        <gnm:Cell Row="49" Col="2" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="49" Col="3" ValueType="40">1000</gnm:Cell>
+        <gnm:Cell Row="49" Col="4" ValueType="40">1200</gnm:Cell>
+        <gnm:Cell Row="49" Col="5" ValueType="40">12</gnm:Cell>
+        <gnm:Cell Row="49" Col="6" ValueType="40">4</gnm:Cell>
+        <gnm:Cell Row="49" Col="7" ExprID="12">=8.9900000000000002*4*0.94999999999999996</gnm:Cell>
+        <gnm:Cell Row="49" Col="8" ValueType="40">0</gnm:Cell>
+        <gnm:Cell Row="49" Col="9" ExprID="1"/>
+        <gnm:Cell Row="49" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B098NN1LC2</gnm:Cell>
+        <gnm:Cell Row="50" Col="0" ValueType="60">tesla gold+</gnm:Cell>
+        <gnm:Cell Row="50" Col="1" ValueType="60">alkaline</gnm:Cell>
+        <gnm:Cell Row="50" Col="2" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="50" Col="3" ValueType="40">1200</gnm:Cell>
+        <gnm:Cell Row="50" Col="4" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="50" Col="5" ValueType="40">4</gnm:Cell>
+        <gnm:Cell Row="50" Col="6" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="50" Col="7" ValueType="40">5.9400000000000004</gnm:Cell>
+        <gnm:Cell Row="50" Col="8" ValueType="40">0</gnm:Cell>
+        <gnm:Cell Row="50" Col="9" ExprID="1"/>
+        <gnm:Cell Row="50" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B07VFDFP7L</gnm:Cell>
+        <gnm:Cell Row="51" Col="0" ValueType="60">tesla silver+</gnm:Cell>
+        <gnm:Cell Row="51" Col="1" ValueType="60">alkaline</gnm:Cell>
+        <gnm:Cell Row="51" Col="2" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="51" Col="3" ValueType="40">1150</gnm:Cell>
+        <gnm:Cell Row="51" Col="4" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="51" Col="5" ValueType="40">24</gnm:Cell>
+        <gnm:Cell Row="51" Col="6" ValueType="40">1</gnm:Cell>
+        <gnm:Cell Row="51" Col="7" ExprID="13">=21.989999999999998*0.84999999999999998</gnm:Cell>
+        <gnm:Cell Row="51" Col="8" ValueType="40">0</gnm:Cell>
+        <gnm:Cell Row="51" Col="9" ExprID="1"/>
+        <gnm:Cell Row="51" Col="10" ValueType="60">https://www.amazon.co.uk/dp/B07VGH62JT</gnm:Cell>
       </gnm:Cells>
-      <gnm:SheetLayout TopLeft="A1"/>
+      <gnm:SheetLayout TopLeft="A2">
+        <gnm:FreezePanes FrozenTopLeft="A1" UnfrozenTopLeft="A2"/>
+      </gnm:SheetLayout>
       <gnm:Solver ModelType="0" ProblemType="0" MaxTime="60" MaxIter="1000" NonNeg="1" Discr="0" AutoScale="0" ProgramR="0" SensitivityR="0"/>
     </gnm:Sheet>
   </gnm:Sheets>
